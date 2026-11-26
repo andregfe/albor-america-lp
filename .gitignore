@@ -1,0 +1,7 @@
+# Material original do cliente: nunca vai para o GitHub (briefing)
+material/
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
